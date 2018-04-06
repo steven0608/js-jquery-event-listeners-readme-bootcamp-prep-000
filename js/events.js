@@ -17,7 +17,7 @@ $("#typing").on("keydown", function(k){
   }
 })
 }
-<<<<<<< HEAD
+
 
 function submitIt(){
   $("form").on("submit", function(){
@@ -25,9 +25,6 @@ function submitIt(){
   });
 }
 
-$(document).ready(function(){
-=======
->>>>>>> a4ad2aa84ce648462d6970ba61aeca52bfb99800
 
 function submitIt(){
   $("form").on("submit", function(){
@@ -37,4 +34,4 @@ function submitIt(){
 
 $(document).ready(function(){
   
-});
+})
