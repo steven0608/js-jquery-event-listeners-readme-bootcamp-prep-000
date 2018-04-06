@@ -18,14 +18,6 @@ $("#typing").on("keydown", function(k){
 })
 }
 
-
-function submitIt(){
-  $("form").on("submit", function(){
-    alert("Your form is going to be submitted now.");
-  });
-}
-
-
 function submitIt(){
   $("form").on("submit", function(){
     alert("Your form is going to be submitted now.");
