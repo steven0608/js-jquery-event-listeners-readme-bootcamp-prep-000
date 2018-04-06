@@ -33,5 +33,5 @@ function submitIt(){
 }
 
 $(document).ready(function(){
-
+getIt();
 })
